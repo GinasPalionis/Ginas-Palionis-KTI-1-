@@ -1,0 +1,180 @@
+body {
+
+background-color: #000;
+background-image: url('bg.jpg'); 
+ background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+margin: 0;
+
+
+
+}
+div.navigation{
+text-align:center;
+margin-top: 25px;
+
+}
+
+
+div.navigation a {
+height: 133px;
+width: 45px;
+text-decoration: none;
+color: #fff;
+font-family: 'Indie Flower', cursive;
+border: 2px solid white;
+border-radius: 5px;
+font-size: 25px;
+padding: 5px;
+box-shadow: 2px 2px 2px black;
+}
+div.navigation a:hover{
+border: 2px solid red;
+color: red;
+
+}
+
+div.note div.note2{
+margin-left: 455px;
+height: 500px;
+width: 470px;
+border: 2px solid white;
+border-radius: 5px;
+box-shadow: 2px 2px 2px black;
+
+}
+div.note
+{
+text-align: center;
+margin-top: 15px;
+}
+div.note h1
+{
+font-family: 'Indie Flower', cursive;
+color: #fff;
+}
+
+div.note h1:hover{
+zoom: 120%;
+}
+
+
+div.note2 li {
+
+list-style: none;
+color: #fff;
+font-size: 25px;
+margin-top: 5px;
+
+}
+button {
+font-family: 'Indie Flower', cursive;
+border: 2px solid white;
+border-radius: 5px;
+background-color: transparent;
+margin-left: 5px;
+color: #fff;
+font-size: 20px;
+
+}
+
+button:hover{
+border: 2px solid red;
+color: red;
+}
+
+#uzrasai:hover{
+
+border: 2px solid blue;
+
+}
+#uzrasai {
+background-color:transparent;
+border-radius: 5px;
+border: 2px solid white;
+color: #fff;
+
+}
+p {
+font-family: 'Indie Flower', cursive;
+color: #fff;
+font-size: 25px;
+
+}
+
+#kalbos {
+font-family: 'Indie Flower', cursive;
+color: red;
+font-size: 25px;
+display: none;
+}
+
+footer{
+font-family: 'Indie Flower', cursive;
+color: #fff;
+text-align:center;
+}
+
+#sventes {
+font-family: 'Indie Flower', cursive;
+color: red;
+font-size: 18px;
+}
+
+h2 {
+font-family: 'Indie Flower', cursive;
+color: #fff;
+
+}
+
+#prideti {
+font-family: 'Indie Flower', cursive;
+border: 2px solid white;
+border-radius: 5px;
+background-color: transparent;
+margin-left: 5px;
+color: #fff;
+font-size: 20px;
+
+}
+
+#prideti:hover{
+border: 2px solid red;
+color: red;
+}
+
+#visus {
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+#numeris {
+background-color:transparent;
+border-radius: 5px;
+border: 2px solid white;
+color: #fff;
+width: 250px;
+}
+#numeris:hover{
+
+border: 2px solid blue;
+}
+#pasalinti {
+font-family: 'Indie Flower', cursive;
+border: 2px solid white;
+border-radius: 5px;
+background-color: transparent;
+margin-left: 5px;
+color: #fff;
+font-size: 20px;
+
+}
+
+#pasalinti:hover {
+border: 2px solid red;
+color: red;
+
+}
+
+
